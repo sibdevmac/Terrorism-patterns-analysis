@@ -10,6 +10,8 @@ The objective of this study is to identify historical patterns of terrorist inci
 
 To develop a comprehensive terrorism intelligence framework that identifies temporal, geographical, organizational, and tactical patterns of terrorist incidents and predicts future terrorism risk using historical data.
 
+## Link
+https://www.kaggle.com/datasets/START-UMD/gtd
 ---
 
 # Objectives
