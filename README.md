@@ -36,13 +36,6 @@ To develop a comprehensive terrorism intelligence framework that identifies temp
 
 ---
 
-# Tools Used
-
----
-```python
-
-```
-
 # Data Preprocessing
 
 The dataset was examined for missing values before analysis.
