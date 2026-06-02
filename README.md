@@ -282,8 +282,3 @@ The analysis highlights the importance of evidence-based risk assessment and dem
 
 Sibankar Saha
 ---
-
-# Author
-
-**Global Terrorism Intelligence Analytics Project**
-Data Analytics | Machine Learning | Risk Intelligence | Geospatial Analysis
