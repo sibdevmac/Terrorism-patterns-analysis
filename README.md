@@ -46,9 +46,7 @@ To develop a comprehensive terrorism intelligence framework that identifies temp
 
 The dataset was examined for missing values before analysis.
 
-```python
 df.fillna(0, inplace=True)
-```
 
 Preprocessing steps included:
 
