@@ -6,10 +6,6 @@ Terrorism remains one of the most significant security challenges faced by moder
 
 The objective of this study is to identify historical patterns of terrorist incidents, evaluate geographical and organizational trends, analyze factors associated with successful attacks, and develop data-driven recommendations for reducing terrorism risk.
 
-```
-
-```
-
 ## Aim
 
 To develop a comprehensive terrorism intelligence framework that identifies temporal, geographical, organizational, and tactical patterns of terrorist incidents and predicts future terrorism risk using historical data.
